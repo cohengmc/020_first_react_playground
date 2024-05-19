@@ -1,0 +1,14 @@
+.items {
+    list-style-type: none;
+    display: flex;
+    gap: 1em;
+    align-items: center;
+}
+
+.head {
+    display: flex;
+}
+
+.logo {
+    width: 100px;
+}
